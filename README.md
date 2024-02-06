@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-🔭 I’m currently working on a ![Caregivers website](https://carer-hub-nuxt-3.vercel.app/) to assist in connecting the caregivers to the clients who need them.<br>👯 Happy to collaborate on interesting projects<br>🤝 Any opportunity to improve my skills in design patterns and industry standard practices in production apps and services is highly welcome.<br>🌱 Currently learning shopify and its ecosystem, the Rust programming language and advanced Nuxt and Nextjs<br>🌍 I am based in Nairobi, KE.<br><br>
+🔭 I’m currently working on a [Caregivers website](https://carer-hub-nuxt-3.vercel.app/) to assist in connecting the caregivers to the clients who need them.<br>👯 Happy to collaborate on interesting projects<br>🤝 Any opportunity to improve my skills in design patterns and industry standard practices in production apps and services is highly welcome.<br>🌱 Currently learning shopify and its ecosystem, the Rust programming language and advanced Nuxt and Nextjs<br>🌍 I am based in Nairobi, KE.<br><br>
 
 ## 🌐 Socials:
 
